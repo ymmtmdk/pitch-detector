@@ -1,0 +1,24 @@
+{
+  "name": "pitch-detector",
+  "version": "1.1.0",
+  "description": "musical pitch detector",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack --watch"
+  },
+  "author": "ymmtmdk",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.1",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.4.1",
+    "webpack": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ymmtmdk/pitch-detector.git"
+  },
+  "homepage": "https://github.com/ymmtmdk/pitch-detector"
+}
