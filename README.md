@@ -1,4 +1,7 @@
 # musical pitch detector
+
+using 'McLeod Pitch Method' (http://miracle.otago.ac.nz/tartini/papers.html)
+
 ## usage
 
 ```javascript
