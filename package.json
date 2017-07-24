@@ -1,6 +1,6 @@
 {
   "name": "pitch-detector",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "musical pitch detector",
   "main": "dist/bundle.js",
   "scripts": {
