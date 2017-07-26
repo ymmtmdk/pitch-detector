@@ -1,6 +1,6 @@
 {
   "name": "pitch-detector",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "musical pitch detector",
   "main": "dist/bundle.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "awesome-typescript-loader": "^3.2.1",
     "source-map-loader": "^0.2.1",
     "typescript": "^2.4.2",
-    "webpack": "^3.3.0"
+    "webpack": "^3.4.0"
   },
   "author": "ymmtmdk",
   "license": "MIT",
